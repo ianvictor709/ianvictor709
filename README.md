@@ -1,10 +1,10 @@
-# Olá, eu sou o [Seu Nome] 👋
+# Olá, eu sou o [Ian Victor] 👋
 
 ## 🚀 Sobre mim
-- 🔭 Atualmente trabalhando/estudando em **[Sua Área/Projeto]**
+- 🔭 Atualmente estudando em **[Colegio Cotemig]**
 - 🌱 Aprendendo no momento: **[Tecnologia]**
 - 💬 Pergunte-me sobre: **HTML, CSS, C# e MySQL**
-- 📫 E-mail para contato: **[seu-email@email.com]**
+- 📫 E-mail para contato: **[ianvictor709@gmail.com]**
 
 ---
 

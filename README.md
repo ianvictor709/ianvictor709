@@ -47,10 +47,4 @@
 
 ---
 
-<h2 align="center">Stats</h2>
-
-<div align="center">
-  <!-- Gráfico animado das linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovictorcastor&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
-</div>
 

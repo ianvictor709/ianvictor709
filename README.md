@@ -2,7 +2,7 @@
 
 <!-- CABEÇALHO ANIMADO COM SVG (Efeito de Digitação e Cores Neon) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=70&lines=JOÃO+VICTOR+CASTOR;Estudante+de+TI;System+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=70&lines=IAN+VICTOR;Estudante+de+TI;System+Developer" alt="Typing SVG" />
 </a>
 
 <p>
